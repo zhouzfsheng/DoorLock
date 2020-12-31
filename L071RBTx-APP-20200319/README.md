@@ -25,5 +25,3 @@ BLE_XX1      <--|PC05               PC13|--> Botton
 RF_RSTO      <--|PC06               PC14|--> ADC 
 RF_IRQ       <--|PC07               PC15|--> ADC
                 |_______________________|
-
-*/
