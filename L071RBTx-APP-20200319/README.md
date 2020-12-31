@@ -1,6 +1,6 @@
               _________________________
               |                        |
-BLE_PWRC   <--|PA00                PB00|--> ADC 
+BLE_PWRC   <--|PA00                PB00|--> ADC \r\n
 BLE_RST	   <--|PA01                PB01|--> LED3 
 BLE_TXD	   <--|PA03                PB03|--> SWO 
 SPI1_NSS   <--|PA04                PB04|--> LED1 
