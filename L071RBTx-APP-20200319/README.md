@@ -1,4 +1,3 @@
-
                 _________________________
                 |                       |
 BLE_PWRC     <--|PA00               PB00|--> ADC 
@@ -14,7 +13,7 @@ ZIG_TXD      <--|PA10               PB10|--> Moto_IB
 ATE_enable   <--|PA11               PB11|--> Moto_IA
 ZIG_REST     <--|PA12               PB12|--> SPI2_NSS
 SWDIO        <--|PA13               PB13|--> SPI2_SCK
-SWCLK        <--|PA14								PB14|--> SPI2_MISO
+SWCLK        <--|PA14				PB14|--> SPI2_MISO
 BUZZER_Ctr   <--|PA15               PB15|--> SPI2_MOSI
                 |     STM32L071RBT6     |           
 I2C3_SDA     <--|PC00               PC08|--> Switich1
